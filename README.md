@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lucifer70914/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucifer70914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lucifer70914/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Lucifer70914/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucifer70914/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lucifer70914/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lucifer70914/LeetCode/tree/master/0169-majority-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Lucifer70914/LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Lucifer70914/LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Lucifer70914/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Lucifer70914/LeetCode/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/Lucifer70914/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucifer70914/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lucifer70914/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Lucifer70914/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Lucifer70914/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Lucifer70914/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Lucifer70914/LeetCode/tree/master/0190-reverse-bits) |
 ## Design
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Lucifer70914/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Lucifer70914/LeetCode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/Lucifer70914/LeetCode/tree/master/0169-majority-element) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Lucifer70914/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
